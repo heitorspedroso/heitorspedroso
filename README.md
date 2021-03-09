@@ -2,7 +2,7 @@
 
 I'm Heitor, full stack developer since 2013. CTO and Full Stack Developer of [@arrayevida](https://arrayevida.com.br/).
 
-### 🌱 I Work with
+### 🌱 I work with
  <p>
   <img src="https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/-WordPress-444140?style=flat-square&logo=WordPress&logoColor=white"/>
@@ -18,7 +18,7 @@ I'm Heitor, full stack developer since 2013. CTO and Full Stack Developer of [@a
   </p>
 
 
-### 📫 My Contact
+### 📫 My contact
 <a href="mailto:heitorspedroso@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-bb001b?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/HeitorPedrosoTito/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white"/></a>
 
