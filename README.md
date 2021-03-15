@@ -20,7 +20,7 @@ I'm Heitor, full stack developer since 2013. CTO and Full Stack Developer of [@a
 
 ### 📫 My contact
 <a href="mailto:heitorspedroso@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-bb001b?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/HeitorPedrosoTito/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/HeitorSousaPedroso/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white"/></a>
 
 
 
