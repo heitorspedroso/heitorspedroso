@@ -9,6 +9,7 @@ I'm Heitor, full stack developer since 2013. CTO and Full Stack Developer of [@a
   <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Javascript-f0db4f?style=flat-square&logo=Javascript&logoColor=323330"/>  
   <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PWA-323330?style=flat-square&logo=pwa&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
@@ -21,6 +22,8 @@ I'm Heitor, full stack developer since 2013. CTO and Full Stack Developer of [@a
 ### 📫 My contact
 <a href="mailto:heitorspedroso@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-bb001b?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/HeitorSousaPedroso/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/arrayevida/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e95950?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/heitorspedroso/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-00a0dc?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 
 
