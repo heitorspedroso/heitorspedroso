@@ -1,6 +1,6 @@
 ### 👋 Hi
 
-I'm Heitor, full stack developer since 2013. CTO and Full Stack Developer of [@arrayevida](https://arrayevida.com.br/).
+I'm Heitor, full stack developer since 2013. CEO and Full Stack Developer of [@arraycodes](https://array.codes/).
 
 ### 🌱 I work with
  <p>
@@ -13,8 +13,8 @@ I'm Heitor, full stack developer since 2013. CTO and Full Stack Developer of [@a
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CentOS-212078?style=flat-square&logo=centos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nginx-009900?style=flat-square&logo=nginx&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=black"/>
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
   </p>
 
@@ -22,7 +22,7 @@ I'm Heitor, full stack developer since 2013. CTO and Full Stack Developer of [@a
 ### 📫 My contact
 <a href="mailto:heitorspedroso@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-bb001b?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/HeitorSousaPedroso/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/arrayevida/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e95950?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/arraycodes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e95950?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/heitorspedroso/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-00a0dc?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 
