@@ -8,6 +8,7 @@ I'm Heitor, full stack developer since 2013. CEO and Full Stack Developer of [@a
   <img src="https://img.shields.io/badge/-WordPress-444140?style=flat-square&logo=WordPress&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Javascript-f0db4f?style=flat-square&logo=Javascript&logoColor=323330"/>  
+  <img src="https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PWA-323330?style=flat-square&logo=pwa&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
